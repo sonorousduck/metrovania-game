@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/sonor/OneDrive/Desktop/Projects/ninja-metrovania/Content/Fonts/DefaultFont.spritefont</File>
+    <File>C:/Users/sonor/OneDrive/Desktop/Projects/ninja-metrovania/Content/Fonts/DefaultLargeFont.spritefont</File>
+    <File>C:/Users/sonor/OneDrive/Desktop/Projects/ninja-metrovania/Content/Fonts/DefaultSmallFont.spritefont</File>
+    <File>C:/Users/sonor/OneDrive/Desktop/Projects/ninja-metrovania/Content/Images/black.jpg</File>
+    <File>C:/Users/sonor/OneDrive/Desktop/Projects/ninja-metrovania/Content/Images/box.png</File>
+    <File>C:/Users/sonor/OneDrive/Desktop/Projects/ninja-metrovania/Content/Images/circle.png</File>
+    <File>C:/Users/sonor/OneDrive/Desktop/Projects/ninja-metrovania/Content/Images/crow.png</File>
+    <File>C:/Users/sonor/OneDrive/Desktop/Projects/ninja-metrovania/Content/Images/fire.png</File>
+    <File>C:/Users/sonor/OneDrive/Desktop/Projects/ninja-metrovania/Content/Images/light.png</File>
+    <File>C:/Users/sonor/OneDrive/Desktop/Projects/ninja-metrovania/Content/Images/white.jpg</File>
+    <File>C:/Users/sonor/OneDrive/Desktop/Projects/ninja-metrovania/Content/Tilemaps/GenericTilemap.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
